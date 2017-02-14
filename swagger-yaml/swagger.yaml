@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  description: "This is a simple API TEST VERSION 1.0.1"
-  version: "1.0.1"
+  description: "This is a simple API"
+  version: "1.0.0"
   title: "Simple Inventory API"
   contact:
     email: "you@your-company.com"
@@ -10,7 +10,7 @@ info:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
 host: "virtserver.swaggerhub.com"
-basePath: "/pavel-sos/test1/1.0.1"
+basePath: "/pavel-sos/test1/1.0.0"
 tags:
 - name: "admins"
   description: "Secured Admin-only calls"
